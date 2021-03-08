@@ -3,7 +3,6 @@ FLOAT D;
 CONST BOOL F = 0, K=1;
 BEGIN
     print 'ok';
-
     A++;
     C= C%4;
     D=(A++)/(B--);
