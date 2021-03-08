@@ -1,0 +1,6 @@
+INT A=4;
+FLOAT B,c,D;
+BEGIN
+    A:=5;
+END
+
